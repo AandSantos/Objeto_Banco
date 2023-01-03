@@ -1,0 +1,14 @@
+*criando o objeto "Banco"*
+
+functionBanco(conta, saldo, tipo de conta, agência) {
+this.conta = conta;
+this.saldo = saldo;
+this.tipo = tipo;
+this.agencia = agencia;
+saldo: {100}
+deposito: {depositoValor: 200}
+saque: {50}
+numeroConta: {2255}
+saldoFinal: {depósito - saque}
+var minhaConta = newBanco (2255, 250, corrente, 1234 5678 9101 1123)
+}
